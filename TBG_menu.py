@@ -65,7 +65,7 @@ def Help():
     blank()
     print("this game is a 'choose your own adventure' textbased horror/scare game.")
     print("you get a scenario, and you choose one of 2(or more) things.")
-    print("and then if you choose a, you will get to a scenario based on that.")
+    print("and then, if you choose correct, you continue, and if its wrong, you go back to the start of that room.")
     print("heres an example.")
     spc()
     print("you see a wall infront of you, and a hallway that goes to the left and right of you.")
