@@ -6,13 +6,12 @@ def spc():
     print("")
 def storya():
     os.system("cls")
-    print("everything is dark.")
-    print("you hear faint noises as you get on your feet.")
-    print("you look around, searching for a light or a wall.")
-    print("after some fumbling, you finally feel a wall. its a stone wall, and you can feel the individual")
-    print("bricks, and some of them are loose.")
-    print("as you pull slightly on one of them, you think that you might be able to remove it")
-    print("if you pull harder.")
+    print('Everything is dark. You hear faint noises as you get on your feet.\
+        you look around, searching for a light or a wall.')
+    print('After some fumbling, you finally feel a wall. Its a stone wall, and you can feel the individual bricks.\
+        Some of them are loose.')
+    print('As you pull lightly on one of them, a certain degree of give indicates that you might be able to remove it.')
+    print("If you pull harder...")
     action = input("do you pull the brick? ")
                         #correct 1
     if(action == "No" or action == "no"):
